@@ -21,7 +21,6 @@ I analyzed Illinois real estate data using Python and pandas to explore how prop
 - Python
 - pandas
 - scikit-learn
-- matplotlib
 - Jupyter Notebook
 
 ## Model
